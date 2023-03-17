@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pozetroninc/github-action-get-latest-release.git"
+    "url": "git+https://github.com/progmonster/github-action-get-latest-release.git"
   },
   "keywords": [
     "actions",
@@ -19,9 +19,9 @@
     "release"
   ],
   "bugs": {
-    "url": "https://github.com/pozetroninc/github-action-get-latest-release/issues"
+    "url": "https://github.com/progmonster/github-action-get-latest-release/issues"
   },
-  "homepage": "https://github.com/pozetroninc/github-action-get-latest-release#readme",
+  "homepage": "https://github.com/progmonster/github-action-get-latest-release#readme",
   "author": "Pozetron Inc",
   "license": "MIT",
   "dependencies": {
