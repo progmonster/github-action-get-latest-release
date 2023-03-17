@@ -36,7 +36,7 @@ async function run() {
             core.setOutput('id', String(releases[0].id));
             core.setOutput('description', String(releases[0].body));
         } else {
-            core.setFailed("No valid releases");
+            core.setOutput("");
         }
     }
     catch (error) {
