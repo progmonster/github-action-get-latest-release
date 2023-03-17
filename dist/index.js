@@ -9517,7 +9517,9 @@ async function run() {
             core.setOutput('id', String(releases[0].id));
             core.setOutput('description', String(releases[0].body));
         } else {
-            core.setOutput("");
+            core.setOutput('release', '');
+            core.setOutput('id', '');
+            core.setOutput('description', '');
         }
     }
     catch (error) {
