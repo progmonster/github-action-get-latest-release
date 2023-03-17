@@ -3,6 +3,7 @@ Get Latest Release
 
 A simple Github action to get the latest release from another repository. No authentication required.
 
+
 Configuration
 =============
 
